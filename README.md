@@ -1,3 +1,8 @@
+# Something to Note
+This is a reupload! Upon discovering RMC's Github, Website, and socials vanished I decided to reupload a copy of the script I have on hand for those who still need it.
+Hope this script helps!
+~[Snoopie](https://www.youtube.com/channel/UC8EYr_ArKMKaxfgRq-iCKzA)
+
 # OS X Patcher
 OS X Patcher is a command line tool for running OS X Mountain Lion, OS X Mavericks, OS X Yosemite, and OS X El Capitan on unsupported Macs
 
